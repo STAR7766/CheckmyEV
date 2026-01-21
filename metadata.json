@@ -1,0 +1,5 @@
+{
+  "name": "CheckmyEV: EV Diagnostic Engineer",
+  "description": "An advanced electrical engineering diagnostic tool for EV charging issues, identifying root causes like voltage drop, thermal derating, and earthing faults.",
+  "requestFramePermissions": []
+}
